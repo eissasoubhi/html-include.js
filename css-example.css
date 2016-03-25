@@ -1,0 +1,14 @@
+article.content {
+    border: 1px solid;
+    padding: 60px;
+}
+header#header {
+    border: 1px solid red;
+    padding: 30px;
+    margin: 10px;
+}
+footer {
+    border: 1px solid blue;
+    padding: 30px;
+    margin: 10px;
+}
