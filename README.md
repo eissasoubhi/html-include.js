@@ -105,7 +105,7 @@ a javascript/JQuery plugin to include html partials files into a single html fil
 </html>
 ```
 #Options: 
-marker : wrap the included file content with the comments `<!-- ***** marker-begin filename.html ******* -->` and `<!-- ***** marker-end filename.html ******* -->`
+**marke**r : wrap the included file content with the comments `<!-- ***** marker-begin filename.html ******* -->` and `<!-- ***** marker-end filename.html ******* -->`
 
 default : true
 
@@ -127,4 +127,4 @@ chrome doesn't allow loading files from local with the url begining with (file:/
 
 the solution is to use a webserver with a [google chrome extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?utm_source=chrome-app-launcher-info-dialog).
 
-[how to use the extension](https://www.youtube.com/watch?v=AK6swHiPtew)
+[how to start a webserver in 3mins](https://www.youtube.com/watch?v=AK6swHiPtew)
