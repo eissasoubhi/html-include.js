@@ -12,8 +12,8 @@ jQuery(document).ready(function($)
         {
             $.get( html_file, function(partial)
             {
-                if ($(include).attr('comment') !== "false")
-                {   // insert comment
+                if ($(include).attr('marker') !== "false")
+                {   // insert marker
                     html_file = $(include).attr('src');
                     filename = getFileName(html_file);
                     begin_marker = createCommentElement('marker-begin '+filename)
