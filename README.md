@@ -104,6 +104,9 @@ a javascript/JQuery plugin to include html partials files into a single html fil
     </body>
 </html>
 ```
+#Demo
+http://netfox01.github.io/html-include.js/
+
 #Options: 
 **marke**r : wrap the included file content with the comments `<!-- ***** marker-begin filename.html ******* -->` and `<!-- ***** marker-end filename.html ******* -->`
 
@@ -118,7 +121,7 @@ There is 2 js files :
 - **html-include.jquery.js** requires JQuery dependency for contributions purposes . 
 - **html-include.js** no dependency required  for using purpose. 
 
-## Compatibility
+## Compatibility on local
 ###  mozilla firefox
 Works fine, just open the main file in the browser
 
